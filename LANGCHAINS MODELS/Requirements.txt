@@ -21,6 +21,6 @@ huggingface-hub
 # Environment Variable Management
 python-dotenv
 
-# Machine Learning Utilities
+# Machine Learning Utilities For Data Manipulation
 numpy
 scikit-learn
