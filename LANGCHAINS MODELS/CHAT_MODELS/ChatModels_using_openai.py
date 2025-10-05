@@ -1,4 +1,4 @@
-from langchain_openai import chat_models
+from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
